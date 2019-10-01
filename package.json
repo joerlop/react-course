@@ -20,7 +20,13 @@
   },
   "homepage": "https://github.com/joerlop/react-course#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "cross-env": "^6.0.0",
     "eslint": "^6.4.0",
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-import": "^2.18.2",
